@@ -33,6 +33,7 @@ java_import_host {
     visibility: [
         "//external/dagger2",
         "//external/jetpref/datastore-model-processor",
+        "//external/kotlinpoet",
         "//frameworks/libs/systemui/MutableDagger",
         "//build/soong/cmd/kotlinc_incremental",
     ],
